@@ -1,0 +1,2 @@
+git checkout -b 'branch_name' --- for branch creation and switching
+git checkout master --for switching 
